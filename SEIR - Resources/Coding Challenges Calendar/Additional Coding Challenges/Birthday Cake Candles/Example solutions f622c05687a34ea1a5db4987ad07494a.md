@@ -1,0 +1,6 @@
+# Example solutions
+
+- Javascript
+    
+    
+- Python

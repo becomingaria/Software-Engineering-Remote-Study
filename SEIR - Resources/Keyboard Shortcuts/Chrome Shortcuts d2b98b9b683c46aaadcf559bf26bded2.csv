@@ -1,0 +1,9 @@
+﻿Name,Keystrokes,Effect
+,,
+Shuffle,CONTROL + TAB,Cycles through open tabs in Chrome window.
+Dev Tools,OPTION + COMMAND + J,Opens the Chrome Developer Tools; the equivalent of: right-click on a browser page and select 'inspect' from the drop-down.
+Bookmark Manager,OPTION + COMMAND + B,Opens the Bookmark Manager.
+Bookmark Tabs,SHIFT + COMMAND + D,Saves all the open tabs of a Chrome window to a new bookmark folder.
+Refresh,COMMAND + R,Refreshes the active browser tab.
+Hard Refresh,SHIFT + COMMAND + R,Use to clear the css cache and reload the window.
+,,

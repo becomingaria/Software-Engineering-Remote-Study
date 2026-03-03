@@ -1,0 +1,5 @@
+﻿Name,Time Complexity,Space Complexity,Stability,Type
+Selection Sort,"Average: Θ(N^2), Best:  Ω(N^2), Worst: O(N^2)",O(1) - in-place,Unstable,Comparison
+Bubble Sort,"Average: Θ(N^2), Best: Ω(N), Worst: O(N^2)",O(1) - in-place,Stable,Comparison
+Insertion Sort,"Average: Θ(N^2), Best: Ω(N), Worst: O(N^2)",O(1) - in-place,Stable,Comparison
+Merge Sort,"Average: Θ(N log(N)), Best: Ω(N log(N)), Worst: O(N log(N))",O(N) - out-of-place,Stable,Comparison

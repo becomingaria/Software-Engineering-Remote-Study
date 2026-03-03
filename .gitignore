@@ -1,0 +1,19 @@
+# Large video files (exceed GitHub's 100MB limit)
+*.mov
+*.mp4
+*.avi
+*.mkv
+*.webm
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Node
+node_modules/
+.env
+
+# macOS
+.DS_Store

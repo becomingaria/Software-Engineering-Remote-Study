@@ -1,0 +1,41 @@
+﻿Name,Tags,url
+Git extension,VSCode,https://marketplace.visualstudio.com/items?itemName=donjayamanne.git-extension-pack
+Drawio extension,VSCode,https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio
+"Javasccript Doc String Documentation ",JS,https://jsdoc.app/index.html
+"Event Loop Explanation ",JS,https://www.youtube.com/watch?v=8aGhZQkoFbQ&t=571s&ab_channel=JSConf
+JS Interactive Cheat Sheet,"JS, Shortcuts",https://htmlcheatsheet.com/js/
+Javascript Doc String Cheatsheet,"JS, Shortcuts",https://devhints.io/jsdoc
+Scope Article,JS,https://dev.to/ale3oula/the-hor-r-o-r-scope-global-local-and-block-scope-in-js-37a1
+Ascii Table,JS,http://www.asciitable.com/
+Flexbox Zombies,CSS,https://geddski.teachable.com/p/flexbox-zombies
+CSS Froggy Game,CSS,https://flexboxfroggy.com/
+CSS Diner Game,CSS,https://flukeout.github.io/
+CSS3 Cheat Sheet,"CSS, Shortcuts",https://www.kobzarev.com/wp-content/uploads/cheatsheets/css/css3-cheat-sheet.pdf
+Cascade Guide,CSS,http://www.blooberry.com/indexdot/css/topics/cascade.htm
+CSS Tricks: Grid,CSS,https://css-tricks.com/snippets/css/complete-guide-grid/
+Css Layout Generator,CSS,https://layout.bradwoods.io/
+CSS Common Properties List,CSS,https://www.tutorialrepublic.com/css-reference/css3-properties.php
+CSS Interactive Cheat Sheet,CSS,https://htmlcheatsheet.com/css/
+Guide to Flexbox,CSS,https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+Pixel to Ems Converter,CSS,http://pxtoem.com/
+"Media Queries ",CSS,https://css-tricks.com/a-complete-guide-to-css-media-queries/
+CSS Display Cheat Sheet,CSS,https://learn-the-web.algonquindesign.ca/topics/css-layout-cheat-sheet/
+CSS Tricks,CSS,https://css-tricks.com/
+Codrops,CSS,https://tympanus.net/codrops/css_reference/combinators/
+Custom Properties in CSS,CSS,https://css-tricks.com/a-complete-guide-to-custom-properties/
+Mac Vs Code,"Shortcuts, VSCode",https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf
+Github Cheatsheet,"Shortcuts, Terminal",https://training.github.com/downloads/github-git-cheat-sheet.pdf
+Tech Stack spreadsheet,Shortcuts,https://docs.google.com/spreadsheets/d/1nKOW-yTPAu_yP3VR5FfL9JmUxKdsgFJcXhrZMAGa6Pk/edit#gid=0
+Git Mistake Helper,"Shortcuts, Terminal",https://dangitgit.com/en
+Emmet Cheat Sheet,Shortcuts,https://docs.emmet.io/cheat-sheet/
+Windows Vs Code,"Shortcuts, VSCode",https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
+"Git commit style guide ","Shortcuts, Terminal",https://www.conventionalcommits.org/en/v1.0.0/
+HTML Tags Cheat Sheet,"HTML, Shortcuts",https://drive.google.com/file/d/1Cdgm7UfN03xK4qRbXiKzX0BJt2Fg4m2o/view
+HTML Interactive Cheat Sheet,"HTML, Shortcuts",https://htmlcheatsheet.com/
+"Color Picker ",Chrome,https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg?hl=en
+Grepper Extension,Chrome,https://chrome.google.com/webstore/detail/grepper/amaaokahonnfjjemodnpmeenfpnnbkco?utm_source=chrome-ntp-icon
+Oh My ZSH,Terminal,https://ohmyz.sh/
+windows open package,Terminal,https://www.npmjs.com/package/wsl-open
+Hyper Terminal,Terminal,https://hyper.is/
+Command Line Cheat Sheet,"Shortcuts, Terminal",https://www.git-tower.com/blog/command-line-cheat-sheet/
+,,

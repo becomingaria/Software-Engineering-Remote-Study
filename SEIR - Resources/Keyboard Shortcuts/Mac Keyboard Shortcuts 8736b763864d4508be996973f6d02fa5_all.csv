@@ -1,0 +1,20 @@
+﻿Name,Effect,Keystrokes
+Find,Opens a search box which you can use to find text in the current document.,COMMAND + F
+Shuffle,"Hold COMMAND, and tap TAB: The first tab tap will bring up a small window that shows all open applications, another tap will highlight the next app, and the highlighted app will be brought to front when you release the keys.",COMMAND + TAB
+Save,Generally accepted command to save your progress is a document.,COMMAND + S
+Dock,Toggles the dock visibility.,OPTION + COMMAND + D
+Cut,Pastes whatever has been copied into your clipboard onto the document.,COMMAND + X
+Screenshot,"Takes a screenshot of a selected area of your window. The cursor will change to look like a target vector, click hold and drag the cursor so the shadow covers the area you want to screenshot. Release the mouse to take the screenshot. Press the escape key to get back to your cursor.",SHIFT + COMMAND + 4
+Screenshot,"Takes a screenshot of your entire window, generally saves to Desktop, but also check Downloads.",SHIFT + COMMAND + 3
+Paste,"After selecting/highlighting the desired text, will delete the text and copy it to your clipboard.",COMMAND + V
+Spotlight,The Spotlight search will allow you to search for applications or documents on your machine.,COMMAND + SPACEBAR
+Tab,Opens a new tab of the active application.,COMMAND + T
+Switch,Moves to another desktop display if you have one; the equivalent of: three-finger swipe left or right on the trackpad.,CONTROL + LEFT/RIGHT-ARROW
+Copy,"After selecting/highlighting desired text, this command will copy the text to your clipboard.",COMMAND + C
+Undo,"Steps backwards in your keystroke history, generally one character at a time.",COMMAND + Z
+Quit,Closes and quits the active application.,COMMAND + Q
+Window,Closes the current window of the active application.,COMMAND + W
+Spread,"Spreads out all the open applications on that desktop; the equivalent of: F3, or three-finger swipe up on the trackpad.",CONTROL + UP-ARROW
+New,Opens a new window of the active application.,COMMAND + N
+Redo,Steps forward in your keystroke history.,SHIFT + COMMAND + Z
+,,

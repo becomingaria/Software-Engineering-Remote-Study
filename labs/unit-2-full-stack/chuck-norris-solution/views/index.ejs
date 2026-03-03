@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Chuck Norris Jokes</title>
+  <style>
+    body { font-family: sans-serif; max-width: 600px; margin: 2rem auto; padding: 1rem; }
+    .joke { background: #f0f0f0; padding: 1rem; border-radius: 8px; margin: 1rem 0; font-size: 1.2rem; }
+    label { display: inline-block; margin: 0.25rem 0.5rem; }
+  </style>
+</head>
+<body>
+  <h1>🤜 Chuck Norris Joke Generator</h1>
+
+  <form method="GET" action="/">
+    <h3>Choose a Category (Bonus):</h3>
+    <% categories.forEach(cat => { %>
+      <label>
+        <input type="radio" name="category" value="<%= cat %>"> <%= cat %>
+      </label>
+    <% }) %>
+    <br><br>
+    <button type="submit">Get Chuck Norris Joke</button>
+  </form>
+
+  <% if (joke) { %>
+    <div class="joke">
+      <p><%= joke %></p>
+    </div>
+  <% } %>
+</body>
+</html>

@@ -1,0 +1,14 @@
+﻿Name,Keystrokes,Effect
+Terminal,CONTROL + BACTICK,Open's the integrated VSCode terminal.
+Side Bar,COMMAND + B,"Toggles the Explorer tab visibility, which displays the file structure of the open project."
+Shuffle,CONTROL + TAB,"Hold CONTROL, tap TAB: Opens a dropdown list of open tabs, and tapping tab again will highlight the next tab. The highlighted tab will be opened when the keys are released."
+Search,COMMAND + P,"Opens a search bar that allows you to search for a certain file name; to search the document for keywords, use the magnifying glass on the left task bar."
+New Line,COMMAND + ENTER,"With your cursor placed anywhere on a line of code, this will create an empty line beneath the original and place your cursor at the beginning of the new line."
+Select Line,COMMAND + L,"Highlights the entire line that your cursor is currently on. "
+Copy Line,SHIFT + OPTION + DOWN-ARROW,Duplicates the line of code your cursor rests on directly below the original line.
+Move Line,OPTION + UP/DOWN-ARROW,"Moves selected code line(s) up or down, highlight the lines or rest your cursor on a single line."
+Comment,COMMAND + FORWARD-SLASH,"Comments out code, or comment on."
+Select,COMMAND + D,"After selecting text, when you use this command it will highlight further instances of the same text - which you can use to change them all at once."
+Indent,COMMAND + CLOSING-BRACKET,Indents a line of code.
+Unindent,COMMAND + OPENING-BRACKET,"Un-indents a line of code. "
+,,

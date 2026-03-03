@@ -1,0 +1,5 @@
+﻿Route,Component,Renders
+/about,About,"""This is the About page"""
+/,Home,"""This is the Homepage page"""
+/stocks,Dashboard,All stocks
+/stocks/:symbol,Stock,A single stock
